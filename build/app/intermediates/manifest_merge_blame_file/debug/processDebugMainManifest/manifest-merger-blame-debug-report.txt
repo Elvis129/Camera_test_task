@@ -13,11 +13,11 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/user/Camera_test_task/camera_test_task/android/app/src/debug/AndroidManifest.xml:6:5-66
-15-->/Users/user/Camera_test_task/camera_test_task/android/app/src/debug/AndroidManifest.xml:6:22-64
+15-->/Users/user/Camera_test_task/test/android/app/src/debug/AndroidManifest.xml:6:5-66
+15-->/Users/user/Camera_test_task/test/android/app/src/debug/AndroidManifest.xml:6:22-64
 16    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
-16-->/Users/user/Camera_test_task/camera_test_task/android/app/src/main/AndroidManifest.xml:2:5-82
-16-->/Users/user/Camera_test_task/camera_test_task/android/app/src/main/AndroidManifest.xml:2:22-79
+16-->/Users/user/Camera_test_task/test/android/app/src/main/AndroidManifest.xml:2:5-82
+16-->/Users/user/Camera_test_task/test/android/app/src/main/AndroidManifest.xml:2:22-79
 17    <!--
 18 Required to query activities that can process text, see:
 19         https://developer.android.com/training/package-visibility and
@@ -26,35 +26,35 @@
 22         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
 23    -->
 24    <queries>
-24-->/Users/user/Camera_test_task/camera_test_task/android/app/src/main/AndroidManifest.xml:41:5-46:15
+24-->/Users/user/Camera_test_task/test/android/app/src/main/AndroidManifest.xml:41:5-46:15
 25        <intent>
-25-->/Users/user/Camera_test_task/camera_test_task/android/app/src/main/AndroidManifest.xml:42:9-45:18
+25-->/Users/user/Camera_test_task/test/android/app/src/main/AndroidManifest.xml:42:9-45:18
 26            <action android:name="android.intent.action.PROCESS_TEXT" />
-26-->/Users/user/Camera_test_task/camera_test_task/android/app/src/main/AndroidManifest.xml:43:13-72
-26-->/Users/user/Camera_test_task/camera_test_task/android/app/src/main/AndroidManifest.xml:43:21-70
+26-->/Users/user/Camera_test_task/test/android/app/src/main/AndroidManifest.xml:43:13-72
+26-->/Users/user/Camera_test_task/test/android/app/src/main/AndroidManifest.xml:43:21-70
 27
 28            <data android:mimeType="text/plain" />
-28-->/Users/user/Camera_test_task/camera_test_task/android/app/src/main/AndroidManifest.xml:44:13-50
-28-->/Users/user/Camera_test_task/camera_test_task/android/app/src/main/AndroidManifest.xml:44:19-48
+28-->/Users/user/Camera_test_task/test/android/app/src/main/AndroidManifest.xml:44:13-50
+28-->/Users/user/Camera_test_task/test/android/app/src/main/AndroidManifest.xml:44:19-48
 29        </intent>
 30    </queries>
 31
 32    <uses-feature android:name="android.hardware.camera.any" />
-32-->[:camera_android_camerax] /Users/user/Camera_test_task/camera_test_task/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-64
-32-->[:camera_android_camerax] /Users/user/Camera_test_task/camera_test_task/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:19-61
+32-->[:camera_android_camerax] /Users/user/Camera_test_task/test/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:5-64
+32-->[:camera_android_camerax] /Users/user/Camera_test_task/test/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:7:19-61
 33
 34    <uses-permission android:name="android.permission.CAMERA" />
-34-->[:camera_android_camerax] /Users/user/Camera_test_task/camera_test_task/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:5-65
-34-->[:camera_android_camerax] /Users/user/Camera_test_task/camera_test_task/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:22-62
+34-->[:camera_android_camerax] /Users/user/Camera_test_task/test/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:5-65
+34-->[:camera_android_camerax] /Users/user/Camera_test_task/test/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:22-62
 35    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-35-->[:camera_android_camerax] /Users/user/Camera_test_task/camera_test_task/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:5-71
-35-->[:camera_android_camerax] /Users/user/Camera_test_task/camera_test_task/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:22-68
+35-->[:camera_android_camerax] /Users/user/Camera_test_task/test/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:5-71
+35-->[:camera_android_camerax] /Users/user/Camera_test_task/test/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:22-68
 36    <uses-permission
-36-->[:camera_android_camerax] /Users/user/Camera_test_task/camera_test_task/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:5-13:38
+36-->[:camera_android_camerax] /Users/user/Camera_test_task/test/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:5-13:38
 37        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
-37-->[:camera_android_camerax] /Users/user/Camera_test_task/camera_test_task/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:9-65
+37-->[:camera_android_camerax] /Users/user/Camera_test_task/test/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:9-65
 38        android:maxSdkVersion="28" />
-38-->[:camera_android_camerax] /Users/user/Camera_test_task/camera_test_task/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:9-35
+38-->[:camera_android_camerax] /Users/user/Camera_test_task/test/build/camera_android_camerax/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:9-35
 39    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 40
 41    <permission
@@ -128,43 +128,43 @@
 96        </service>
 97
 98        <provider
-98-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:9-17:20
+98-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:9-17:20
 99            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-99-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-82
+99-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:13-82
 100            android:authorities="com.example.camera_test_task.flutter.image_provider"
-100-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-74
+100-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:11:13-74
 101            android:exported="false"
-101-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:13-37
+101-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:13-37
 102            android:grantUriPermissions="true" >
-102-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:13-47
+102-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:13-47
 103            <meta-data
-103-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-16:75
+103-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:13-16:75
 104                android:name="android.support.FILE_PROVIDER_PATHS"
-104-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:17-67
+104-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:17-67
 105                android:resource="@xml/flutter_image_picker_file_paths" />
-105-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:17-72
+105-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:17-72
 106        </provider> <!-- Trigger Google Play services to install the backported photo picker module. -->
 107        <service
-107-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:9-31:19
+107-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:9-31:19
 108            android:name="com.google.android.gms.metadata.ModuleDependencies"
-108-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:13-78
+108-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:13-78
 109            android:enabled="false"
-109-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:13-36
+109-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:13-36
 110            android:exported="false" >
-110-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:13-37
+110-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:13-37
 111            <intent-filter>
-111-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:24:13-26:29
+111-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:24:13-26:29
 112                <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" />
-112-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:17-94
-112-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:25-91
+112-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:17-94
+112-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:25-91
 113            </intent-filter>
 114
 115            <meta-data
-115-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-30:36
+115-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:13-30:36
 116                android:name="photopicker_activity:0:required"
-116-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:17-63
+116-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:17-63
 117                android:value="" />
-117-->[:image_picker_android] /Users/user/Camera_test_task/camera_test_task/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:17-33
+117-->[:image_picker_android] /Users/user/Camera_test_task/test/build/image_picker_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:17-33
 118        </service>
 119
 120        <uses-library

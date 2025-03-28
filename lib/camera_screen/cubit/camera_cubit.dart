@@ -39,7 +39,7 @@ class CameraCubit extends Cubit<CameraState> {
       return;
     }
 
-    await initializeCamera(1);
+    await initializeCamera(0);
   }
 
   Future<void> initializeCamera(int index) async {

@@ -1,0 +1,1 @@
+ /Users/user/Camera_test_task/test/.dart_tool/flutter_build/d42e76b77bf2c782343e1b2db2d216d6/native_assets.json: 
